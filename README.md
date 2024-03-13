@@ -1,2 +1,2 @@
 # Chess-Game
-Unfinished
+Unfinished implementation of chess using Java.
